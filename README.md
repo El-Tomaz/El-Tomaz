@@ -1,6 +1,6 @@
 * 👋 Hi, I’m @El-Tomaz <br>
 * 🧐 I’m interested in: FOSS, microeletronics  <br>
-* 🌱 I’m currently learning: Full Stack development with Node JS<br>
+* 🌱 I’m currently learning: eletronics, software engineering <br>
 * 📫 How to reach me: <br>
   &nbsp; &nbsp; &nbsp; &nbsp;Linkedin: https://www.linkedin.com/in/gabriel-tomaz-910695237/ <br>
   &nbsp; &nbsp; &nbsp; &nbsp;E-mail: &nbsp; &nbsp;tomazlemosgarcia@gmail.com
