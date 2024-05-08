@@ -4,7 +4,7 @@
   
   🐙  I’m interested in: FOSS projects, microeletronics and ways of using technology to achieve positive social impact <br>
   
-  🌱  I’m currently learning: eletronics, software engineering <br>
+  🌱  I’m currently learning: singnal processing, robotics, embedded systems design<br>
   
   📫  How to reach me: <br>
   &nbsp; &nbsp; &nbsp; &nbsp;Linkedin: https://www.linkedin.com/in/gabriel-tomaz-910695237/ <br>
