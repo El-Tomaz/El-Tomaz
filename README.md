@@ -1,5 +1,5 @@
-  👋 Hi, I’m @El-Tomaz, a Brazilian student and software developer aspirant, actually I haven't chosen any especific software development type yet but I'm
-  always learning and meeting new tools and "ways of thinking". 
+  👋 Hi, I’m @El-Tomaz, a Brazilian student and eletrical engineer aspirant, actually I haven't chosen any especific career path yet but I'm
+  always learning and meeting new areas, tools and "ways of thinking". 
   <br>
   
   🐙  I’m interested in: FOSS projects, microeletronics and ways of using technology to achieve positive social impact <br>
